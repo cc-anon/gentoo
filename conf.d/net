@@ -1,0 +1,2 @@
+dns_domain_lo="quiet"
+config_enp4s0="dhcp"
